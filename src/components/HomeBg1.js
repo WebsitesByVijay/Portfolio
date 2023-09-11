@@ -14,12 +14,10 @@ const HomeBg1 = () => {
           <p> Hello I'm Vijay, </p>
           <h1>I'm A Full Stack Java Developer.</h1>
           <Link to="/project" className="btn">
-            {" "}
-            Projects{" "}
+            Projects
           </Link>
           <Link to="/contact" className="btn btn-light">
-            {" "}
-            Contact{" "}
+            Contact
           </Link>
         </div>
       </div>
